@@ -16,6 +16,8 @@ Currently pursuing **B.Tech in Information Technology** at Government Engineerin
 - 🌱 Currently learning **Advanced MERN, RESTful APIs, and Cloud Deployments**  
 - ⚡ Fun fact: I love improving UI details until they look perfect!
 
+
+
 <p align="center">
   <a href="https://html.com/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
