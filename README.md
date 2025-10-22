@@ -98,4 +98,3 @@ Chatbot built using **React + Langchain + OpenAI API** to assist KTU students wi
 
 ---
 
-⭐ **“Keep learning, keep building, and make every project better than the last.”**
