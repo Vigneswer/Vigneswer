@@ -16,7 +16,7 @@ Currently pursuing **B.Tech in Information Technology** at Government Engineerin
 - 🌱 Currently learning **Advanced MERN, RESTful APIs, and Cloud Deployments**  
 - ⚡ Fun fact: I love improving UI details until they look perfect!
 
-
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeedmunees&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
 
 <p align="center">
   <a href="https://html.com/" target="_blank">
