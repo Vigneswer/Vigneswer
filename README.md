@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vigneswer V
+# Hi 👋, I'm Vigneswer V
 
 🚀 **Aspiring Full Stack Developer | React & MERN Enthusiast | Problem Solver**
 
@@ -6,6 +6,15 @@ I’m passionate about building interactive, user-friendly web applications usin
 Currently pursuing **B.Tech in Information Technology** at Government Engineering College, Idukki, and continuously learning new technologies through projects and hands-on experience.
 
 ---
+
+
+
+### 💡 About Me
+- 🎓 B.Tech IT Student (2021–2025)  
+- 💻 Building projects with **React.js, Node.js, Express.js, and MongoDB**  
+- 🤖 Interested in **Machine Learning + AI integrations** in web apps  
+- 🌱 Currently learning **Advanced MERN, RESTful APIs, and Cloud Deployments**  
+- ⚡ Fun fact: I love improving UI details until they look perfect!
 
 <p align="center">
   <a href="https://html.com/" target="_blank">
@@ -45,14 +54,6 @@ Currently pursuing **B.Tech in Information Technology** at Government Engineerin
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-
-### 💡 About Me
-- 🎓 B.Tech IT Student (2021–2025)  
-- 💻 Building projects with **React.js, Node.js, Express.js, and MongoDB**  
-- 🤖 Interested in **Machine Learning + AI integrations** in web apps  
-- 🌱 Currently learning **Advanced MERN, RESTful APIs, and Cloud Deployments**  
-- ⚡ Fun fact: I love improving UI details until they look perfect!
 
 ---
 
