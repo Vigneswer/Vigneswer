@@ -16,6 +16,21 @@ Currently pursuing **B.Tech in Information Technology** at Government Engineerin
 - 🌱 Currently learning **Advanced MERN, RESTful APIs, and Cloud Deployments**  
 - ⚡ Fun fact: I love improving UI details until they look perfect!
 
+
+
+---
+
+### 🧰 Tech Stack
+**Languages:**  
+JavaScript, HTML, CSS, Python, Java  
+
+**Frameworks & Libraries:**  
+React.js, Node.js, Express.js, Bootstrap, Tailwind CSS, Material UI  
+
+**Databases & Tools:**  
+MongoDB, Git, GitHub, Netlify, Vercel, Render, Figma  
+
+
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeedmunees&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
 
 <p align="center">
@@ -56,18 +71,6 @@ Currently pursuing **B.Tech in Information Technology** at Government Engineerin
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
-
-### 🧰 Tech Stack
-**Languages:**  
-JavaScript, HTML, CSS, Python, Java  
-
-**Frameworks & Libraries:**  
-React.js, Node.js, Express.js, Bootstrap, Tailwind CSS, Material UI  
-
-**Databases & Tools:**  
-MongoDB, Git, GitHub, Netlify, Vercel, Render, Figma  
 
 ---
 
