@@ -1,93 +1,124 @@
+
 # Hi 👋, I'm Vigneswer V
 
-🚀 **Aspiring Full Stack Developer | React & MERN Enthusiast | Problem Solver**
+### Full-Stack Software Engineer | .NET | React | Next.js | AI Engineering
 
-I’m passionate about building interactive, user-friendly web applications using the **MERN stack**.  
-Currently pursuing **B.Tech in Information Technology** at Government Engineering College, Idukki, and continuously learning new technologies through projects and hands-on experience.
+I'm a Full-Stack Software Engineer focused on building scalable web applications, backend systems, and AI-powered products.
 
----
+Currently working at **Druvino Systems**, building production features for a multi-tenant e-commerce SaaS platform using .NET, React, Next.js, and PostgreSQL.
 
-
-
-### 💡 About Me
-- 🎓 B.Tech IT Student (2021–2025)  
-- 💻 Building projects with **React.js, Node.js, Express.js, and MongoDB**  
-- 🤖 Interested in **Machine Learning + AI integrations** in web apps  
-- 🌱 Currently learning **Advanced MERN, RESTful APIs, and Cloud Deployments**  
-- ⚡ Fun fact: I love improving UI details until they look perfect!
-
-
+I enjoy working across backend architecture, frontend development, database design, and AI integrations to build practical software.
 
 ---
 
-### 🧰 Tech Stack
-**Languages:**  
-JavaScript, HTML, CSS, Python, Java  
+## 💼 About Me
 
-**Frameworks & Libraries:**  
-React.js, Node.js, Express.js, Bootstrap, Tailwind CSS, Material UI  
+- 💻 Full-Stack Software Engineer at Druvino Systems
+- 🎓 B.Tech Information Technology – Government Engineering College, Idukki
+- ⚙️ Building applications with ASP.NET Core, React, Next.js, and PostgreSQL
+- 🏗️ Interested in Clean Architecture, DDD, CQRS, and distributed systems
+- 🤖 Exploring AI integrations, RAG systems, and LLM-powered applications
+- 🚀 Focused on building reliable, scalable, and production-ready software
 
-**Databases & Tools:**  
-MongoDB, Git, GitHub, Netlify, Vercel, Render, Figma  
+---
 
+## 🛠️ Tech Stack
 
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeedmunees&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
+### Languages
+C#, JavaScript, TypeScript, Python, SQL
+
+### Frontend
+React.js, Next.js, Tailwind CSS, HTML5, CSS3
+
+### Backend
+.NET 10, ASP.NET Core, Node.js, Express.js, FastAPI, Entity Framework Core, MediatR
+
+### Databases & Search
+PostgreSQL, MongoDB, Supabase, pgvector, OpenSearch
+
+### Architecture & Engineering
+Clean Architecture, DDD, CQRS, Saga, Outbox Pattern, Multi-Tenancy, Event-Driven Architecture
+
+### AI & Integrations
+OpenAI API, LangChain, RAG, Hugging Face Transformers, RabbitMQ, Razorpay
+
+### DevOps & Tools
+Docker, Docker Compose, Nginx, Git, GitHub, Grafana, OpenTelemetry, Postman, Vercel, Cloudflare
+
+---
+
+## 🚀 Featured Projects
+
+### Petition Platform
+**.NET 10 | ASP.NET Core | PostgreSQL | Next.js 15 | React 19**
+
+- Built a tenant-aware petition platform using Clean Architecture, DDD, and CQRS.
+- Implemented JWT authentication, rotating refresh tokens, and secure password hashing.
+- Developed public and admin applications for petition discovery, publishing, signature management, and review.
+- Implemented petition PDF generation with ordered signatures and one-signature-per-user enforcement.
+
+### Multimodal Fake News Detection System
+**Python | FastAPI | PyTorch | Hugging Face | React | MongoDB**
+
+- Developed a Malayalam fake news detection application and browser extension.
+- Built a multimodal analysis pipeline for text, images, and URLs.
+- Integrated MuRIL, CLIP, BLIP, OCR, semantic search, and AI-based verdict reasoning.
+- Generated explainable credibility scores for analyzed content.
+
+### Ask KTU – AI Chatbot for KTU Students
+**React | Node.js | Supabase | LangChain | OpenAI API**
+
+- Built a RAG-based chatbot for KTU syllabus, regulation, and credit queries.
+- Implemented PDF ingestion, text chunking, embeddings, and semantic retrieval using pgvector.
+- Integrated OpenAI GPT with official academic documents for grounded answers.
+- Added authentication and persistent user chat history.
+
+---
+
+## 💻 Professional Experience
+
+### Software Engineer – Druvino Systems
+Building a multi-tenant e-commerce SaaS platform using .NET 10, ASP.NET Core, Next.js, React, and PostgreSQL.
+
+Working across:
+- Checkout, guest checkout, and payment integrations
+- Order management, returns, and shipment tracking
+- Search infrastructure with OpenSearch
+- Multi-tenant backend architecture
+- RabbitMQ workers and event-driven workflows
+- Frontend architecture and reusable UI components
+- AI-powered shopping assistant integrations
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://html.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </a>
-  <a href="https://github.com/typicode/json-server" target="_blank">
-    <img src="https://img.shields.io/badge/JSON_Server-%23007ACC.svg?style=flat-square&logo=json&logoColor=white" alt="JSON Server" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vigneswer&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneswer&layout=compact&hide_border=true&theme=transparent" height="165" />
 </p>
 
 ---
 
+## 🏆 Certifications
 
-### 🧑‍🎓 Certifications
-- 🧩 **React (Codecademy)** – Component architecture, hooks & state management  
-- 🐍 **Python Intern (River Tech IT Solutions)** – Practical coding & mini-projects  
-- 🎨 **UI/UX Workshop (Eldii)** – Hands-on experience in creative design  
-- 🏅 **Program Executive** – One Creator from One Ward Scholarship (Steyp & Mathrubhumi News)  
-
----
-
-### 📫 Connect With Me
-📍 Kochi, Kerala  
-📧 **[vigneswervigneswer2003@gmail.com](mailto:vigneswervigneswer2003@gmail.com)**  
-🔗 [LinkedIn](https://linkedin.com/in/vigneswer-v)  
-💻 [GitHub](https://github.com/Vigneswer)  
+- React – HackerRank
+- React – Codecademy
+- GitHub Foundations – Coursera
+- AI Tools and Claude Workshop – be10x
 
 ---
 
+## 📫 Connect With Me
+
+- 📍 Kochi, Kerala, India
+- 📧 [Email](mailto:vigneswervigneswer2003@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/vigneswer-v/)
+- 💻 [GitHub](https://github.com/Vigneswer)
+- 🌐 [Portfolio](https://portfolio.vigneswer.workers.dev)
+
+---
+
+<p align="center">
+  <i>Building software, exploring AI, and continuously improving as an engineer.</i>
+</p>
